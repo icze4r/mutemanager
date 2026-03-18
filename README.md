@@ -4,7 +4,7 @@
 
 Made by Durandal
 
-an [ICZE4R](https://bsky.app/profile/iczer.one) joint • [→ Open the tool](https://icze4r.github.io/mute-manager/ambivalence.html)
+an [ICZE4R](https://bsky.app/profile/iczer.one) joint • [→ Open the tool](https://icze4r.github.io/mutemanager/ambivalence.html)
 
 ---
 
